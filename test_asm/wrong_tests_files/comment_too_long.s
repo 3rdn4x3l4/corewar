@@ -1,0 +1,10 @@
+.name "Joueur"
+.comment "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a nisl suscipit, congue odio eget, pharetra metus. Duis pharetra tincidunt ex at aliquet. Phasellus viverra semper iaculis. Donec vitae mi sed ex placerat posuere eget vel erat. Phasellus venenatis ipsum massa, eu mattis nibh semper vitae. Quisque at sagittis quam. Suspendisse dictum leo sagittis nunc ultricies, at pretium sem volutpat. In hac habitasse platea dictumst. Nullam vulputate sem sed eleifend ornare. Mauris consectetur odio lorem, et fermentum neque tempor condimentum. Donec dignissim convallis dolor, nec ultrices felis commodo et. Ut vel ante a odio congue eleifend.
+
+Praesent euismod nunc vitae leo consectetur semper. Etiam quis commodo mauris, in efficitur sapien. Proin at odio aliquam, ullamcorper eros vitae, varius elit. Sed vitae gravida ipsum. Suspendisse potenti. Vestibulum et ex quis velit gravida porta non sit amet velit. Curabitur ac fringilla tortor. Donec sagittis sem nec nisl congue, a facilisis mi lacinia. Aliquam quis imperdiet sapien.
+
+Curabitur lorem augue, tincidunt quis ante sed, facilisis porta erat. Nulla iaculis rhoncus massa, at sagittis enim efficitur et. Aliquam ut placerat enim. Etiam fermentum semper justo quis porta. Suspendisse pretium nisl id posuere commodo. Mauris dapibus porta pharetra. Aenean sit amet sagittis enim, ac cursus augue. Aliquam dolor massa, semper efficitur massa et, convallis tristique lectus. Nunc et ornare dui. Praesent condimentum eleifend eros et pellentesque. Aliquam vestibulum lacus neque, eget fringilla ex ornare id.
+
+Mauris mi dolor, vulputate sed libero at, volutpat sodales neque. Suspendisse sagittis egestas mauris, id sodales erat convallis sit amet. Praesent finibus ultrices mi non viverra. Sed tellus sapien, eleifend vel felis ac, blandit molestie arcu. Aliquam eu neque ut sapien auctor convallis. Nam dapibus luctus orci, vitae laoreet ligula gravida a. Nullam euismod lectus non mi consectetur, quis rutrum metus laoreete. Suspendisse potenti. Praesent cursus, erat eget gravida massa nunc."
+
+live %42
